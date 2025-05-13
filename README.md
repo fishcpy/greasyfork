@@ -43,7 +43,7 @@ google：8.8.8.8
 
 cloudflare：1.1.1.1
 
-最后，希望nextgo.us.kg不要被封
+最后，希望nextgo.dpdns.org不要被封
 
 # 长期地址自动跳转
 
