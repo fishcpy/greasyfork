@@ -6,7 +6,9 @@
 
 </div>
 
-# 新域名：https://greasyfork.dpdns.org/
+### 新域名：greasyfork.dpdns.org
+
+### 备用www.fu.cloudns.be
 
 # 中文 [English](/README_English.md)
 
