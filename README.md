@@ -8,7 +8,7 @@
 
 ### 新域名：greasyfork.dpdns.org
 
-### 备用www.fu.cloudns.be
+### 备用: www.fu.cloudns.be
 
 # 中文 [English](/README_English.md)
 
